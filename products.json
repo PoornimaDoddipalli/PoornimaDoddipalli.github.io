@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Banaras Saree",
+    "price": 899,
+    "description": "Banaras Saree",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/sareeS1.jpg",
+      "large": "assets/images/sareeL1.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Banaras Saree",
+    "price": 899,
+    "description": "Banaras Saree",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/sareeS2.jpg",
+      "large": "assets/images/sareeL2.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Banaras Saree",
+    "price": 899,
+    "description": "Banaras Saree",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/sareeS3.jpg",
+      "large": "assets/images/sareeL3.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Banaras Saree",
+    "price": 899,
+    "description": "Banaras Saree",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/sareeS4.jpg",
+      "large": "assets/images/sareeL4.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Banaras Saree",
+    "price": 450,
+    "description": "Banaras Saree",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/sareeS5.jpg",
+      "large": "assets/images/sareeL5.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Banaras Saree",
+    "price": 399,
+    "description": "Banaras Saree",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/sareeS6.jpg",
+      "large": "assets/images/sareeL6.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Banaras Saree",
+    "price": 399,
+    "description": "Banaras Saree",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/sareeS7.jpg",
+      "large": "assets/images/sareeL7.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Banaras Saree",
+    "price": 399,
+    "description": "Banaras Saree",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/sareeS8.jpg",
+      "large": "assets/images/sareeL8.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Banaras Saree",
+    "price": 399,
+    "description": "Banaras Saree",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/sareeS9.jpg",
+      "large": "assets/images/sareeL9.jpg"
+    }
+  }
+]
